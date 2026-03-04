@@ -1,8 +1,8 @@
 
 # devops-cycle
 The objective of this solo project is to illustrate the core concepts of DevOps by building examples using different technologies, clarifying key concepts, and exploring various options and approaches for secure and fast deployment.
+<img width="350" height="500" alt="RESIZE2 0" src="https://github.com/user-attachments/assets/ad6c1b01-d782-4c58-9cfe-585cc8ec8ba7" />
 
-<img width="1200" height="1600" alt="devopsfrontRESIZE" src="https://github.com/user-attachments/assets/55071ed9-c899-46cf-9a2b-7a517c6f91bd" />
 
 One of the goals of this repository is to build, explain, and faithfully represent the principles described in The Three Ways from The Phoenix Project implemented.
 
