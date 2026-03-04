@@ -1,7 +1,7 @@
 
 
 # devops-cycle
-The objective of this solo project is to illustrate the core concepts of DevOps by building examples using different technologies, clarifying key concepts, and exploring various options and approaches for secure and fast deployment.
+The objective of this solo project is to illustrate the core concepts of DevOps by building examples using different technologies, clarifying key concepts, and exploring various options and approaches for secure and fast development.
 <img width="400" height="225" alt="MEME DEVOPS" src="https://github.com/user-attachments/assets/d976d2d2-0363-43e1-a496-56c6fb9d3ab5" />
 
 
