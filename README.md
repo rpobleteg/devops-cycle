@@ -9,6 +9,6 @@ One of the goals of this repository is to implement and demonstrate the principl
 
 > "*The principles of the Third Way address the need for valuing organizational learning, enabling high trust and boundary-spanning between functions, accepting that failures will always occur in complex sytems, and making it acceptable to talk about problems so we can create a safe system of work*"
 >
-> <img width="350" height="500" alt="BILL" src="https://github.com/user-attachments/assets/8aa9801a-474b-4c40-80a1-64a6107ddb7b" />
+> 
 
 
